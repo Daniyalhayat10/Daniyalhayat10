@@ -1,11 +1,7 @@
 <h1 align="center">Hi, I'm Daniyal</h1>
 
 <p align="center">
-  <b>Agentic AI Engineer @ 5yber &nbsp;•&nbsp; Founder, LinkedKraft &nbsp;•&nbsp; Islamabad, Pakistan</b>
-</p>
-
-<p align="center">
-  I build AI agents that do real work, not demos.
+  <a href="https://linkedkraft.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=Agentic+AI+Engineer+%40+5yber;I+build+AI+agents+that+do+real+work;Founder%2C+LinkedKraft;Voice+agents%2C+RAG+and+automations" alt="Typing intro"></a>
 </p>
 
 <p align="center">
@@ -44,11 +40,28 @@ Some of these are team builds. Thanks to [@Mahnoor-Zaffar](https://github.com/Ma
 
 ## What I work with
 
-**AI:** AI agents, multi-agent systems, RAG, tool calling, voice agents, Claude and GPT APIs, local models with Ollama  
-**Build:** Python, TypeScript, React, Next.js, Flutter, Supabase
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,flutter,fastapi,supabase,git&perline=8" alt="Tech stack">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Claude-191919?style=flat&logo=anthropic&logoColor=white" alt="Claude">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI">
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" alt="Ollama">
+  <img src="https://img.shields.io/badge/RAG-2F81F7?style=flat" alt="RAG">
+  <img src="https://img.shields.io/badge/AI%20agents-2F81F7?style=flat" alt="AI agents">
+  <img src="https://img.shields.io/badge/Voice%20agents-2F81F7?style=flat" alt="Voice agents">
+</p>
 
 ## Get in touch
 
 If a workflow is eating your team's week, tell me what it looks like. I'll tell you honestly if an agent makes sense or if something simpler will do.
 
 [LinkedIn](https://www.linkedin.com/in/daniyalhayat) &nbsp;•&nbsp; [daniyal@5yber.com](mailto:daniyal@5yber.com) &nbsp;•&nbsp; [linkedkraft.com](https://linkedkraft.com)
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daniyalhayat10/Daniyalhayat10/output/github-snake-dark.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Daniyalhayat10/Daniyalhayat10/output/github-snake.svg">
+  </picture>
+</p>
